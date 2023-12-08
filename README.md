@@ -6,4 +6,4 @@ Click here to launch this repository as a Binder: [![Binder](https://mybinder.or
 
 Click [here](https://mybinder.org/v2/gh/narizzang/dashboard/HEAD?labpath=voila%2Frender%2FDashboard.ipynb) to render the dashboard template (```Dasboard.ipynb```) with Voila; this is where you will assemble your dashboard after going through the other notebooks.
 
-**(C) 2023 Nari Ha**
+**(C) 2023 Nari Ha**
